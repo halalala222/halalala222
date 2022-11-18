@@ -1,4 +1,4 @@
-![Github Stats](https://github-readme-stats.vercel.app/api?username=halalala222&show_icons=true&theme=dark&count_private=false)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=halalala222&count_private=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=halalala222&theme=dark&layout=compact)
 ### Hi there 👋
 
