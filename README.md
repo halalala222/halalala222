@@ -1,7 +1,11 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=halalala222&count_private=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=halalala222&theme=dark&layout=compact)
 ### Hi there 👋
-
+### Learning and using
+### 🔭 I’m currently working on ncuhome
+<div><p align="">
+  <img src="https://skillicons.dev/icons?i=go,cpp,java,git,ts,js,docker,mysql,redis,mongodb&theme=dark" />
+</p></div>  
 <!--
 **halalala222/halalala222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
