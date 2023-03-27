@@ -4,7 +4,7 @@
 ### Learning and using
 ### 🔭 I’m currently working on ncuhome
 <div><p align="">
-  <img src="https://skillicons.dev/icons?i=go,cpp,java,git,ts,js,docker,mysql,redis,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,cpp,java,git,ts,docker,mysql,redis,mongodb&theme=dark" />
 </p></div>  
 <!--
 **halalala222/halalala222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
