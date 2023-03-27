@@ -1,8 +1,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=halalala222&count_private=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=halalala222&theme=dark&layout=compact)
 ### Hi there 👋
-### Learning and using
 ### 🔭 I’m currently working on ncuhome
+### Learning and using
 <div><p align="">
   <img src="https://skillicons.dev/icons?i=go,cpp,java,git,ts,docker,mysql,redis,mongodb&theme=dark" />
 </p></div>  
